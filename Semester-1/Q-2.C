@@ -1,4 +1,4 @@
-//Write a program to print ASCII Value of a given character//
+/Write a program to print ASCII Value of a given character/
 
 
 #include<stdio.h>
